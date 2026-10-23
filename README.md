@@ -36,7 +36,7 @@ The rest (secure boot scripts, NyxisOS mirrors, half-finished experiments) is on
 ## say hi
 
 For bug reports: open an issue
-[here](https://github.com/pxradiso/pxradiso/issues), I read everything.
+[here](https://github.com/pxradiso/issues), I read everything.
 
 Notes, experiments and whatever else I felt like writing down end up at
 **[pxradise.it](https://pxradise.it)**. Take a walk.
