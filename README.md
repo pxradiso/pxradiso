@@ -1,42 +1,64 @@
-# hi, I'm pxradise
+<div align="center">
 
-![NixOS](https://img.shields.io/badge/-NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-<a href="https://pxradise.it"><img src="assets/pxradise-badge.png" height="20" alt="pxradise.it"></a>
+<sub>VOL. 2026 · No. 193 · Italy · github.com/pxradiso</sub>
 
-17, Italy, IT student. I spend an unreasonable amount of time in a terminal,
-mostly switching distros and then writing a script that puts everything back
-together. Half of my repos exist because I refused to do the same thing by hand
-twice.
+# The pxradise Times
 
-I run NixOS, by the way. Yes, I know how it works. No, I can't explain my
-`configuration.nix` either.
+<sub><b>BACKEND OR SYSTEMS ENGINEER</b> · ALL THE CODE THAT'S FIT TO SHIP</sub>
 
-## what I'm building
+</div>
 
-**[osu-nixello](https://github.com/pxradiso/osu-nixello)** is [osu-winello](https://github.com/NelloKudo/osu-winello)
-for NixOS: wine, the Steam Runtime and yawl wired together so osu! runs and
-keeps updating itself. The one I'm actually proud of.
+---
 
-**[arduino-ide-linux](https://github.com/pxradiso/arduino-ide-linux)**, a
-one-file installer for the Arduino IDE, because "download the tarball and hope"
-is not an installation method.
+**11** public repositories, **3** stars, **193** contributions in the last year, a longest streak of **3** days and **2** followers.
 
-**[Acer-Aspire-3-A315-54K-Hackintosh](https://github.com/pxradiso/Acer-Aspire-3-A315-54K-Hackintosh)**,
-the EFI and notes I wish someone had handed me before I turned that laptop into
-a Hackintosh.
+<table>
+<tr>
+<td width="44%" valign="top">
 
-**[EnableUAC](https://github.com/pxradiso/EnableUAC)** puts the UAC prompt back
-on Windows 10/11, for when you actually want to be asked.
+### Top stories
 
-The rest (secure boot scripts, NyxisOS mirrors, half-finished experiments) is on
-[my GitHub](https://github.com/pxradiso?tab=repositories).
+<b><a href="https://github.com/pxradiso/omacachy">omacachy</a></b> · ★ 3<br/><sub>Install Omarchy's stable packages on an existing CachyOS system, keeping CachyOS's kernel, drivers, and pacman</sub><br/><br/>
+<a href="https://github.com/pxradiso/glp">glp</a> · ★ 0<br/><sub>A Go CLI that installs Linux apps from a signed catalog.</sub><br/><br/>
+<a href="https://github.com/pxradiso/osu-nixello">osu-nixello</a> · ★ 0<br/><sub>A public project on GitHub.</sub><br/><br/>
+<a href="https://github.com/pxradiso/glp-catalog">glp-catalog</a> · ★ 0<br/><sub>Signed app catalog for glp</sub>
 
-## say hi
+</td>
+<td width="28%" valign="top">
 
-For bug reports: open an issue
-[here](https://github.com/pxradiso/pxradiso/issues), I read everything.
+### By the numbers
 
-Notes, experiments and whatever else I felt like writing down end up at
-**[pxradise.it](https://pxradise.it)**. Take a walk.
+Repositories: <b>11</b><br/>
+Stars: <b>3</b><br/>
+Contributions: <b>193</b><br/>
+Longest streak: <b>3 days</b><br/>
+Followers: <b>2</b>
+
+</td>
+<td width="28%" valign="top">
+
+### Languages
+
+Go · 49%<br/>
+Shell · 45%<br/>
+ASL · 3%<br/>
+NSIS · 1%<br/>
+Batchfile · 1%
+
+</td>
+</tr>
+</table>
+
+### Editorial
+
+> Hi! I'm pxradise. I'm a 17-year-old programmer and IT student. I mess with Linux and dotfiles! :P
+
+### Activity forecast
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=pxradiso&theme=github-dark" alt="pxradiso contribution activity" />
+</p>
+
+---
+
+<div align="center"><sub>CLASSIFIEDS · <a href="https://github.com/pxradiso">GitHub</a> · <a href="https://pxradise.it">Website</a> · Printed with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></div>
