@@ -61,4 +61,4 @@ Batchfile · 1%
 
 ---
 
-<div align="center"><sub>CLASSIFIEDS · <a href="https://github.com/pxradiso">GitHub</a> · <a href="https://pxradise.it">Website</a> · Printed with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></div>
+<div align="center"><sub>CLASSIFIEDS · <a href="https://github.com/pxradiso">GitHub</a> · <a href="https://pxradise.it">Website</a>
